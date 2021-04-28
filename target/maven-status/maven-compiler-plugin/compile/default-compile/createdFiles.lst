@@ -1,0 +1,15 @@
+com/asperger/airqualityresearch/ndovu/service/FlightPathPlanner.class
+com/asperger/airqualityresearch/ndovu/models/Sensor.class
+com/asperger/airqualityresearch/ndovu/models/NoFlyZone.class
+com/asperger/airqualityresearch/ndovu/models/Drone.class
+com/asperger/airqualityresearch/ndovu/service/CustomGoogleORToolsTSPSolution.class
+com/asperger/airqualityresearch/ndovu/App.class
+com/asperger/airqualityresearch/ndovu/util/GeometryHelper.class
+com/asperger/airqualityresearch/ndovu/service/FlightService.class
+com/asperger/airqualityresearch/ndovu/service/SensorService.class
+com/asperger/airqualityresearch/ndovu/service/NoFlyZoneService.class
+com/asperger/airqualityresearch/ndovu/service/CustomTSPAnnealingSolution.class
+com/asperger/airqualityresearch/ndovu/models/Path.class
+com/asperger/airqualityresearch/ndovu/models/DroneMove.class
+com/asperger/airqualityresearch/ndovu/util/What3WordsConverter.class
+com/asperger/airqualityresearch/ndovu/models/BaseEntity.class

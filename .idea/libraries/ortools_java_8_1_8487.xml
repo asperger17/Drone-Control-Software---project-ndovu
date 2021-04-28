@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ortools-java-8.1.8487">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/or-tools/temp_java/ortools-java/target/ortools-java-8.1.8487.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/or-tools/temp_java/ortools-java/target/ortools-java-8.1.8487-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
